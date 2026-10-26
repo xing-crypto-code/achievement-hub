@@ -1,0 +1,1 @@
+This file exists so the repository has a merged pull request whose commit carries a Co-authored-by trailer, which is what the Pair Extraordinaire achievement counts.
